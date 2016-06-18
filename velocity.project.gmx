@@ -17,7 +17,9 @@
     <sprite>sprites\sprite4</sprite>
     <sprite>sprites\spr_road</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bkg_road</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_velocity</object>
