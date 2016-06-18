@@ -7,9 +7,28 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprite0</sprite>
+    <sprite>sprites\spr_run</sprite>
+    <sprite>sprites\spr_left</sprite>
+    <sprite>sprites\spr_trail_right</sprite>
+    <sprite>sprites\spr_trail_left</sprite>
+    <sprite>sprites\spr_neut</sprite>
+    <sprite>sprites\spr_back</sprite>
+    <sprite>sprites\spr_trail_up</sprite>
+    <sprite>sprites\sprite4</sprite>
+    <sprite>sprites\spr_road</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_velocity</object>
+    <object>objects\obj_road</object>
+    <object>objects\obj_trail_right</object>
+    <object>objects\obj_trail_left</object>
+    <object>objects\obj_trail_up</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
